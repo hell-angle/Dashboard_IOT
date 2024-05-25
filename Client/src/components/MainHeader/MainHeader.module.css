@@ -1,0 +1,17 @@
+.main-header {
+  position: static;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #a8a432;
+  padding: 0 2rem;
+}
+
+.main-header h3 {
+  color: white;
+}
+
